@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Integration xmlns="http://soap.sforce.com/2006/04/metadata">
+  <apiVersion>52.0</apiVersion>
+  <name>TransactionParser</name>
+  <type>Heroku</type>
+  <artifact>
+    <url>https://github.com/markusneubrand-sf/transaction-parser-integration/archive/refs/tags/1.0.zip</url>
+    <checksum>54d6c6e0e8ac8823add5649f07897a87c2d8e967</checksum>
+    <spec>api-spec.yaml</spec>
+  </artifact>
+</Integration>
